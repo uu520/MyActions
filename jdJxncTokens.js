@@ -4,10 +4,15 @@
 支持京东N个账号
  */
 // 每个账号 token 是一个 json，示例如下
-// {"farm_jstoken":"749a90f8ffda7bf3b1576760","timestamp":"16101f73","phoneid":"42c7e3dafsaac-18f0e4f4a0cf"}
+// {"farm_jstoken":"749888a90f8ffda7bf3b1576760","timestamp":"16101f73","phoneid":"88842c7e3dafsaac-18f0e4f4a0cf"}
 let JxncTokens = [
   '',//账号一的京喜农场token
   '',//账号二的京喜农场token
+ '',//账号二的京喜农场token
+ '',//账号二的京喜农场token
+ '',//账号二的京喜农场token
+ '',//账号二的京喜农场token
+ '',//账号二的京喜农场token
 ]
 // 判断github action里面是否有京喜农场 token 
 if (process.env.JXNCTOKENS) {
