@@ -40,6 +40,7 @@ const inviteCodes = [
   'FQ3VV93CbCY=@CAZi7RaG9PA=@heOF3g4z4WGvXuW18mrbv6t9zd5YaBeE',
   'FQ3VV93CbCY=@CAZi7RaG9PA=@heOF3g4z4WGvXuW18mrbv6t9zd5YaBeE',
   'FQ3VV93CbCY=@CAZi7RaG9PA=@heOF3g4z4WGvXuW18mrbv6t9zd5YaBeE',
+ 'FQ3VV93CbCY=@CAZi7RaG9PA=@heOF3g4z4WGvXuW18mrbv6t9zd5YaBeE',
 ];
 const randomCount = $.isNode() ? 10 : 5;
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
