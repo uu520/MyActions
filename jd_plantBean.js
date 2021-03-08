@@ -37,14 +37,21 @@ let shareCodes = [ // IOS本地脚本用户这个列表填入你要助力的好�
                    //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
   //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
   'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
- 'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
- 'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
- 'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
-]
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+  'gl6e5dnmcexdaybjmqw57pokny@z4bifxc3amchoybjmqw57pokny@olmijoxgmjutyqvzoma3vxo6slz2wzkkqzm633i@iml7qtcatilpbnk54bvihsrija5ac3f4ijdgqji@xmoal34m6fknmxuyflrfek4e3e@3zzsbq6eu65mdrs3y6bj3kkeqa5hzowrmkiotdy',
+  //账号二的好友shareCode,不同好友的shareCode中间用@符号隔开
+ ]
 let currentRoundId = null;//本期活动id
 let lastRoundId = null;//上期id
 let roundList = [];
