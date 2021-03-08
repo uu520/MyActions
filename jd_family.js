@@ -13,7 +13,7 @@
 
 易黑号，建议禁用
 cron如下
-1 * * * *
+* * * * *
  */
 const $ = new Env('京东家庭号');
 const notify = $.isNode() ? require('./sendNotify') : '';
