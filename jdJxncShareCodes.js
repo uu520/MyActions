@@ -11,7 +11,7 @@
 // 注意：京喜农场 种植种子发生变化的时候，互助码也会变！！
 // 注意：京喜农场 种植种子发生变化的时候，互助码也会变！！
 // 每个账号 shareCdoe 是一个 json，示例如下
-// {"smp":"22bdadsfaadsfadse8a","active":"jdnc_1_btorange210113_2","joinnum":"1"}
+// {"smp":"22bd1d8a","active":"jdnc_1_bto13_2","joinnum":"1"}
 let JxncShareCodes = [
   '',//账号一的好友shareCode,不同好友中间用@符号隔开
   '',//账号二的好友shareCode，不同好友中间用@符号隔开
