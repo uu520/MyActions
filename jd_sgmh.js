@@ -29,7 +29,7 @@ const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
 let appId = '1EFRXxg' , homeDataFunPrefix = 'interact_template', collectScoreFunPrefix = 'harmony', message = ''
 let lotteryResultFunPrefix = homeDataFunPrefix, browseTime = 6
 const inviteCodes = [
-  '',
+  'T0089L4lRR0YCjVQmoaT5kRrbA&T008-6khRR0YCjVQmoaT5kRrbA&T0225KkcRkxIplfQcxmlnaIJJwCjVQmoaT5kRrbA&',
   '',
 ];
 const randomCount = $.isNode() ? 20 : 5;
