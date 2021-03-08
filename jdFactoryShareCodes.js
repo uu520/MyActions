@@ -9,6 +9,13 @@
 // 如: 京东账号1的shareCode1@京东账号1的shareCode2&京东账号2的shareCode1@京东账号2的shareCode2
 let shareCodes = [
   'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
+  'T008-6khRR0YCjVWnYaS5kRrbA5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA&T008-6khRR0YCjVWnYaS5kRrbA',//账号一的好友shareCode,不同好友中间用@符号隔开
   '',//账号二的好友shareCode，不同好友中间用@符号隔开
 ]
 // 判断github action里面是否有东东工厂互助码
